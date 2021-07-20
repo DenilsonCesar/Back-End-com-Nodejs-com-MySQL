@@ -16,7 +16,7 @@
     "mysql2": "^1.6.5",
     "mysqli": "^3.0.6",
     "react": "16.8.3",
-    "react-native": "^0.59.5",
+    "react-native": "^0.62.3",
     "react-native-gesture-handler": "^1.1.0",
     "react-native-maps": "git://github.com/react-native-community/react-native-maps.git#master",
     "react-native-paper": "^2.15.2",
